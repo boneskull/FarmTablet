@@ -4,7 +4,7 @@
 
 ## What is this?
 
-This mod adds a new tool to the game: the **iFarmer**.
+This mod adds a new tool to the game: the **iFarmer**. ![This is what it looks like](assets/tablet.png)
 
 When you use the **iFarmer**, it does the same thing that a [Farm Computer](https://stardewvalleywiki.com/Farm_Computer) does.
 
